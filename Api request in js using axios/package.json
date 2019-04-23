@@ -1,0 +1,16 @@
+{
+  "name": "node-modules",
+  "version": "1.0.0",
+  "description": "",
+  "main": "calling_an_API.js",
+  "dependencies": {
+    "readline-sync": "^1.4.9",
+    " fs":"^node 11.14.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
