@@ -11,7 +11,8 @@ it will create a node modules folder and package.json file in your directory
 then install axios  by the following command
 
 npm install axios -save
-npm install fs
+npm install fs -save
+npm install readline-sync -save
 
 *fs is a file_system module which will help you to work with the file that are there in your system
 
